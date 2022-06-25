@@ -1,62 +1,210 @@
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<!DOCTYPE html>
+<html lang="en-US">
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Wei Lin | Peking University</title>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/libs/fontawesome-5.9.0/css/all.min.css" media="screen" type="text/css">
+
+  <link rel="stylesheet" href="/assets/css/style.css?v=d2a25d649fc60efbacac69f4dcbbd45571a30051" media="screen" type="text/css">
+  <!-- <link rel="stylesheet" href="/assets/css/print.css" media="print" type="text/css"> -->
+
+  <!--
+    [if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]
+  -->
+
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>GAO Yihang | My personal information</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="GAO Yihang" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="My personal information" />
+<meta property="og:description" content="My personal information" />
+<link rel="canonical" href="https://yihang-gao.github.io/" />
+<meta property="og:url" content="https://yihang-gao.github.io/" />
+<meta property="og:site_name" content="GAO Yihang" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="GAO Yihang" />
+<script type="application/ld+json">
+{"description":"My personal information","url":"https://yihang-gao.github.io/","@type":"WebSite","name":"GAO Yihang","headline":"GAO Yihang","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
 </head>
+
 <body>
-<div id="fwtitle">
-<div id="toptitle">
-<h1>Wei Lin @ PKU</h1>
-</div>
-</div>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-item"><a href="index.html" class="current">»&nbsp;Home</a></div>
-<div class="menu-item"><a href="publications.html">»&nbsp;Publications</a></div>
-<div class="menu-item"><a href="software.html">»&nbsp;Software</a></div>
-<div class="menu-item"><a href="teaching.html">»&nbsp;Teaching</a></div>
-</td>
-<td id="layout-content">
-<table class="imgtable"><tr><td>
-<img src="wei.jpg" alt="Wei Lin" width="150px" />&nbsp;</td>
-<td align="left"><p>Wei Lin<br />
-Associate Professor<br />
-<a href="http://www.stat.pku.edu.cn/">Department of Probability and Statistics</a><br />
-<a href="http://www.math.pku.edu.cn/">School of Mathematical Sciences</a><br />
-and<br />
-<a href="http://www.stat-center.pku.edu.cn/">Center for Statistical Science</a><br />
-<a href="http://www.pku.edu.cn/">Peking University</a><br />
-Beijing 100871, China<br />
-weilin (at) math.pku.edu.cn</p>
-<p><a href="cv.pdf">Curriculum Vitae</a><br />
-<a href="cover.pdf">Representative Publications</a></p>
-</td></tr></table>
-<div class="infoblock">
-<div class="blockcontent">
-<p><i>The key to growth is the introduction of </i>higher dimensions<i> of consciousness into our awareness.</i> &#8201;&mdash;&#8201;<a href="http://en.wikipedia.org/wiki/Laozi">Laozi</a><br />
-<i>Don't leave </i>inferences<i> to be drawn when evidence can be presented.</i> &#8201;&mdash;&#8201;<a href="http://en.wikipedia.org/wiki/Richard_Wright_(author)">Richard Wright</a></p>
-</div></div>
-<h2>Academic Positions</h2>
-<p>Associate Professor with Tenure, Peking University, 2020&ndash;; Assistant Professor, 2014&ndash;2020; Postdocotoral Researcher, University of Pennsylvania, 2011&ndash;2014</p>
-<h2>Education</h2>
-<p>Ph.D., University of Southern California, 2011; M.S., University of Minnesota Duluth, 2007; M.S., Fudan University, 2005; B.S., 2002</p>
-<h2>Research Interests</h2>
-<p>My research interests lie in the broad areas of high-dimensional statistics and statistical machine learning, with particular emphasis on 
-compositional data analysis and statistical learning from high-dimensional complex data. I am also interested in causal inference, survival 
-analysis, and applications of statistical and machine learning methods to genomics, metagenomics, and environmental science.</p>
-<h2>Links</h2>
-<p><a href="http://www.genealogy.ams.org/id.php?id=174626">Academic Genealogy</a>,
-<a href="http://scholar.google.com/citations?user=DculdNkAAAAJ">Google Scholar Citations</a></p>
-<div id="footer">
-<div id="footer-text">
-Page generated 2020-08-01, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</td>
-</tr>
+  <section class="pan-layout">
+    <section
+  class="pan-layout-left"
+  
+  style="
+  
+  background-image: url(./background.jpg);
+  
+  
+  "
+  
+>
+  <section
+    class="pan-layout-left__overlay"
+    
+    style=""
+    
+  ></section>
+
+  <div class="pan-layout-left__top">
+    <div class="pan-layout-left__avatar">
+      
+      <a href="/">
+        <img src="https://github.com/yihang-gao.png" alt="GAO Yihang">
+      </a>
+      
+    </div>
+    
+    <div class="pan-layout-left__info">
+      <h1 class="pan-layout-left__title">
+        GAO Yihang
+      </h1>
+      
+      
+    </div>
+  </div>
+  
+  <div class="pan-layout-left__middle">
+    
+    <ul class="pan-layout-left__menu">
+      
+      <li data-menu-link="/index">
+        <a href="/index">Home</a>
+      </li>
+      
+      <li data-menu-link="/publications">
+        <a href="/publications">Publications</a>
+      </li>
+      
+      <li data-menu-link="/experience">
+        <a href="/experience">Experience</a>
+      </li>
+      
+      <li data-menu-link="/honors_awards">
+        <a href="/honors_awards">Honors & Awards</a>
+      </li>
+      
+      <li data-menu-link="/life/colourful_life">
+        <a href="/life/colourful_life">Colourful Life</a>
+      </li>
+      
+    </ul>
+    
+  </div>
+  
+  <div class="pan-layout-left__bottom">
+    <div class="pan-layout-left__small">
+      <span>GET IN TOUCH</span>
+    </div>
+    <div class="pan-layout-left__social">
+      
+    </div>
+  </div>
+
+  <div
+    class="pan-layout-left__close"
+    
+    style=""
+    
+  >
+    <i class="fa fa-fw fa-times"></i>
+  </div>
+</section>
+
+
+    <section class="pan-layout-overlay"></section>
+
+    <section class="pan-layout-right">
+      <section class="pan-layout-header">
+  <div class="pan-layout-header__menutoggle">
+    <i class="fas fa-bars"></i>
+  </div>
+  
+  <div class="pan-layout-header__content">
+    <div class="pan-layout-header__avatar">
+      <span>GAO Yihang</span>
+      
+      <a href="/">
+        
+        <img src="https://github.com/yihang-gao.png" alt="GAO Yihang">
+        
+      </a>
+    </div>
+  </div>
+</section>
+
+      <section class="pan-layout-content">
+        <table border="0" align="left">
+  <tr>
+    <td width="75%">
+      <h1>GAO Yihang 高伊杭</h1>
+      <p align="left"><b>Ph.D. student in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
+      <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong</b></p>
+      <p align="left"><b>Email: gaoyh@connect.hku.hk (preferred)  or   yihanggao@outlook.com</b></p>
+      <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
+    </td>
+    <td width="25%">
+      <center>
+      <img src="/GAOYihang_img.jpg" width="100%" /> 
+        </center>
+    </td>
+  </tr>
 </table>
+<table border="0" align="left">
+<tr>
+  <td>
+  <p align="left"><b>
+  I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests are Machine Learning Theorey (especially Deep Learning Theorey), Data Science and Tensor Computation (Image Processing). Now I am working on deep learning theory. 
+ </b></p>
+    </td>
+  </tr>
+  </table>
+
+<p align="left">Prof. E Weinan:</p>
+<p align="center"> <strong>The Dawning of a New Era in Applied Mathematics --- Machine Learning </strong> </p>
+
+<!--  
+  <h2>Others</h2>
+  Click for information about my [applying to graduate studies](/application.html) if you are interested. -->
+<p><br />
+  <br /></p>
+
+<div> 
+  <p align="left"> Welcome to contact me via email if needed. </p>
+  <p align="left"> The Website was last updated on 2021.05.19. </p>
+  </div>
+
+
+      </section>
+
+      <section class="pan-layout-footer">
+  <div class="pan-layout-footer-right">
+    <div>
+      
+      <span><a target="_blank" href="https://github.com/christianezeani/panthera-jekyll">Panthera Jekyll</a> by <a target="_blank" href="https://github.com/christianezeani">Christian Ezeani</a>.</span>
+    </div>
+  </div>
+</section>
+
+    </section>
+  </section>
+
+  <script type="text/javascript" src="/assets/libs/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/assets/libs/jquery-migrate-3.0.1.min.js"></script>
+  <script type="text/javascript" src="/assets/js/panthera-jekyll.js?v=d2a25d649fc60efbacac69f4dcbbd45571a30051"></script>
+
+  
+ 
 </body>
 </html>
